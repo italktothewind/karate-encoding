@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/bar/%2F/foo"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "timestamp": "2019-05-25T22:02:27Z",
+      "object": {
+        "field": 1234
+      }
+    }
+  }
+}

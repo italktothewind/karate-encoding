@@ -1,0 +1,11 @@
+.idea
+target
+*.iml
+data/
+.classpath
+.project
+.settings/
+.vscode/
+.sts4-cache/
+.DS_Store
+**/src/main/resources
